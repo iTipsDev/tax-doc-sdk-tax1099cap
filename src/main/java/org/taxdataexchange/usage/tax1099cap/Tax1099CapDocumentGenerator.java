@@ -56,7 +56,7 @@ public class Tax1099CapDocumentGenerator {
         Tax1099CapPdfBuilder pdfBuilder = new Tax1099CapPdfBuilder( );
         byte[] bytes = pdfBuilder.buildQr( taxDataList );
 
-        String filePath = "samples/Tax1099Cap.sample.png";
+        String filePath = "samples/Tax1099Cap.qr.png";
         FileUtils.bytesToFile( bytes, filePath );
         System.out.println( filePath );
 
@@ -84,6 +84,12 @@ public class Tax1099CapDocumentGenerator {
         String filePath = "samples/Tax1099Cap.sample.pdf";
         FileUtils.bytesToFile( pdfBytes, filePath );
         System.out.println( filePath );
+
+        String filePathPng = "samples/Tax1099Cap.sample.png";
+        byte[] pngBytes = Pdf2PngConverter.convertBytes( pdfBytes );
+        FileUtils.bytesToFile( pngBytes, filePathPng );
+        System.out.println( filePathPng );
+
 
     }
 
