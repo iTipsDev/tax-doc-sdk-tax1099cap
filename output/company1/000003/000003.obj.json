@@ -1,0 +1,45 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "86-935-5460",
+  "taxFormId" : "5386582",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0436257",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Cronin-Homenick"
+    },
+    "address" : {
+      "line1" : "2624 Emmaline Trafficway",
+      "city" : "Cummeratachester",
+      "region" : "WI",
+      "postalCode" : "89317"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "murray.herzog@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-26-8391",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Chris",
+      "last" : "Swift"
+    },
+    "address" : {
+      "line1" : "45407 Morissette Way",
+      "city" : "Rennerberg",
+      "region" : "TN",
+      "postalCode" : "25042"
+    },
+    "email" : "fredricka.lowe@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "895-47422-2",
+  "dateOfSale" : "2025-02-19",
+  "aggregateAmount" : 200,
+  "numberOfShares" : 300,
+  "stockClasses" : "stockClasses"
+}
