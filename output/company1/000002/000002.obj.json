@@ -1,0 +1,53 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "85-854-7958",
+  "taxFormId" : "7038973",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0325011",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Stroman-Simonis"
+    },
+    "address" : {
+      "line1" : "791 Cruickshank Mews",
+      "city" : "Ziemannchester",
+      "region" : "AK",
+      "postalCode" : "25521",
+      "unitType" : "Apt",
+      "unitNumber" : "319"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "rodrick.osinski@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-02-2698",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Milford",
+      "middle" : "Zane",
+      "last" : "Morar"
+    },
+    "businessName" : {
+      "name1" : "Erdman-Marvin"
+    },
+    "address" : {
+      "line1" : "81018 Scot Parkway",
+      "city" : "Gottliebville",
+      "region" : "NJ",
+      "postalCode" : "94208",
+      "unitType" : "Apt",
+      "unitNumber" : "841"
+    },
+    "email" : "alishia.roob@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "947-61270-6",
+  "dateOfSale" : "2026-10-22",
+  "aggregateAmount" : 200,
+  "numberOfShares" : 300,
+  "stockClasses" : "Common"
+}

@@ -1,0 +1,53 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "30-719-0107",
+  "taxFormId" : "8313798",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0325011",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Stroman-Simonis"
+    },
+    "address" : {
+      "line1" : "791 Cruickshank Mews",
+      "city" : "Ziemannchester",
+      "region" : "AK",
+      "postalCode" : "25521",
+      "unitType" : "Apt",
+      "unitNumber" : "319"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "rodrick.osinski@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-63-1169",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Lessie",
+      "middle" : "Harland",
+      "last" : "Spinka"
+    },
+    "businessName" : {
+      "name1" : "Altenwerth, Halvorson and Weissnat"
+    },
+    "address" : {
+      "line1" : "97799 Azzie Avenue",
+      "city" : "Dietrichtown",
+      "region" : "DE",
+      "postalCode" : "45383",
+      "unitType" : "Apt",
+      "unitNumber" : "358"
+    },
+    "email" : "victor.ratke@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "663-91228-9",
+  "dateOfSale" : "2026-11-10",
+  "aggregateAmount" : 200,
+  "numberOfShares" : 300,
+  "stockClasses" : "Common"
+}

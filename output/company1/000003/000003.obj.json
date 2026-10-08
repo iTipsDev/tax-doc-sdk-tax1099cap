@@ -1,0 +1,53 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "89-585-9347",
+  "taxFormId" : "9682895",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0325011",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Stroman-Simonis"
+    },
+    "address" : {
+      "line1" : "791 Cruickshank Mews",
+      "city" : "Ziemannchester",
+      "region" : "AK",
+      "postalCode" : "25521",
+      "unitType" : "Apt",
+      "unitNumber" : "319"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "rodrick.osinski@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-59-0937",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Chauncey",
+      "middle" : "Tegan",
+      "last" : "Bauch"
+    },
+    "businessName" : {
+      "name1" : "Fisher, Witting and Hane"
+    },
+    "address" : {
+      "line1" : "78437 Jones Vista",
+      "city" : "Ermelindamouth",
+      "region" : "OH",
+      "postalCode" : "03116",
+      "unitType" : "Apt",
+      "unitNumber" : "686"
+    },
+    "email" : "lauri.kuhlman@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "856-47389-4",
+  "dateOfSale" : "2026-07-02",
+  "aggregateAmount" : 200,
+  "numberOfShares" : 300,
+  "stockClasses" : "Common"
+}
